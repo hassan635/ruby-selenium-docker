@@ -1,6 +1,6 @@
 # ruby-selenium-docker
 
-Just an sample script to show Selenium webdriver usage through Ruby and Rspec
+Just a sample script to show Selenium webdriver usage through Ruby and Rspec
 
 As always, Docker is the only pre-req!
 

@@ -5,7 +5,6 @@ extend RSpec::Matchers
 
 describe "Search for Hasan's LinkedIn profile" do
     before(:each) do
-        options = Selenium::WebDriver::Chrome::Options.new()
         options = Selenium::WebDriver::Chrome::Options.new
         options.add_argument('--headless')
         options.add_argument('--no-sandbox')
